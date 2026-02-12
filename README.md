@@ -27,6 +27,8 @@ That's up to **$144/year back in your pocket** — and your voice data never lea
 
 Open the `.dmg`, drag Wispuh to Applications, and launch. On first run it downloads the Whisper model (~148 MB) — after that, everything runs offline.
 
+> **Note:** macOS may say it "cannot verify" the app. Right-click Wispuh → **Open** → **Open**. You only need to do this once.
+
 ## How It Works
 
 1. **Option + Space** — starts recording (a floating pill appears at the top of your screen)
